@@ -1,0 +1,10 @@
+<svg width="142" height="24" viewBox="0 0 142 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Other SVG elements -->
+
+    <!-- Add a text element for the label with bold styling -->
+    <!-- <circle cx="123" cy="15" r="2" fill="#9B59B6"/> -->
+    <text x="3" y="16" font-size="21" font-weight="bold" fill="#1ABC9C">Dream </text>
+    <text x="66" y="16" font-size="21" font-weight="bold" fill="#5D6D7E">House </text>
+
+    <!-- Other SVG elements -->
+</svg>
